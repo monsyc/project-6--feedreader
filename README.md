@@ -12,8 +12,8 @@ Double click on the file index to open in the browser
 
 RSS Feeds
 	are defined
-	allFeeds have a URL defined
-	allFeeds have a name defined
+	allFeeds have a URL defined and the URL is not empty
+	allFeeds have a name defined and the name is not empty
 
 The Menu
 	menu element is hidden by default
